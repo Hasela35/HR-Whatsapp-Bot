@@ -37,7 +37,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['94760191654'] //ur owner number
-global.ownername = "HR Whatsapp Bot" //ur owner name
+global.ownername = "Hasela Ravindu" //ur owner name
 global.ytname = "YT: Raviya Gaming" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
@@ -46,16 +46,16 @@ global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 global.owner = ['94760191654']
 global.ownertag = '94760191654' //ur tag number
 global.botnumber = '94760191654' //Add your Bot Number For Log
-global.botname = 'HR Whatsapp Bot' //ur bot name
+global.botname = '𝙷𝚁 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚋𝚘𝚝' //ur bot name
 global.ig = "https://youtube.com/channel/UCrVbJ8xqL2U80rySg9Nzpnw" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtube.com/channel/UCrVbJ8xqL2U80rySg9Nzpnw/" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtube.com/channel/UCrVbJ8xqL2U80rySg9Nzpnw'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "HR Whatsapp Bot" //ur sticker watermark packname
-global.author = "HASELA RAVINDU" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
+global.packname = "𝙷𝚁 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚋𝚘𝚝" //ur sticker watermark packname
+global.author = "𝙷𝚁 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚋𝚘𝚝" //ur sticker watermark author
+global.footer = "® 𝙷𝚁 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚋𝚘𝚝 ®"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94760191654'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
